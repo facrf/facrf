@@ -21,9 +21,11 @@ Estou sempre aberto a novos desafios — seja como freelancer, consultor ou memb
 <div align="center" style="display: inline_block">
     📊  Github stats
 <img align="center" alt="html5" src="https://api.visitorbadge.io/api/VisitorHit?user=facrf&repo=github-visitors-badge&countColor=%237B1E7A"/>
-</br>  
+</br></br>  
+  
    ⚔️ Code Wars
   [![Rank Atual](https://www.codewars.com/users/facrf/badges/large)](https://www.codewars.com/users/facrf)
+  
 </div></br>
 
 
