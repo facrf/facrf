@@ -17,7 +17,7 @@ Estou sempre aberto a novos desafios — seja como freelancer, consultor ou memb
 <div align="center" style="display: inline_block">
   <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api?username=facrf&show_icons=true&theme=transparent&hide_title=true&count_private=true&include_all_commits=true"/>
 </div>
-
+  ## 🎯
 <div align="center" style="display: inline_block">
   ##  📊  Github stats
   <img align="center" alt="html5" src="https://api.visitorbadge.io/api/VisitorHit?user=facrf&repo=github-visitors-badge&countColor=%237B1E7A"/>
