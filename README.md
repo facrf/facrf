@@ -19,7 +19,7 @@ Estou sempre aberto a novos desafios — seja como freelancer, consultor ou memb
 </div></br>
 
 <div align="center" style="display: inline_block">
-    📊  Github stats
+    📊  Github stats </br>
 <img align="center" alt="html5" src="https://api.visitorbadge.io/api/VisitorHit?user=facrf&repo=github-visitors-badge&countColor=%237B1E7A"/>
 </br></br>  
   
