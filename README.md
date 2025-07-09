@@ -7,24 +7,24 @@ Além da técnica, prezo pelo compromisso, pela entrega com qualidade e pelo res
 Estou sempre aberto a novos desafios — seja como freelancer, consultor ou membro de equipes de alta performance.
 
 💡 Foco atual: Back-end com Java/Kotlin, APIs REST, SQL/PostgreSQL, arquitetura limpa.
+<br></br>
 
-</div><br></br>
-
-<p align="center">Aproveite e me mande uma mensagem se precisar</br></p>
-<p align="center"> <a href="https://wa.me/+5528999496882" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
+<div align="center" style="display: inline_block">
+  <p align="center">Aproveite e me mande uma mensagem se precisar</br></p>
+  <p align="center"> <a href="https://wa.me/+5528999496882" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
 </div></br>
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api?username=facrf&show_icons=true&theme=transparent&hide_title=true&count_private=true&include_all_commits=true"/>
-</div>
-   ##🎯
+</div></br>
+
 <div align="center" style="display: inline_block">
-    ##📊  Github stats
-  <img align="center" alt="html5" src="https://api.visitorbadge.io/api/VisitorHit?user=facrf&repo=github-visitors-badge&countColor=%237B1E7A"/>
-  
-   ##⚔️ Code Wars
+    📊  Github stats
+<img align="center" alt="html5" src="https://api.visitorbadge.io/api/VisitorHit?user=facrf&repo=github-visitors-badge&countColor=%237B1E7A"/>
+</br>  
+   ⚔️ Code Wars
   [![Rank Atual](https://www.codewars.com/users/facrf/badges/large)](https://www.codewars.com/users/facrf)
-</div>
+</div></br>
 
 
 
