@@ -16,10 +16,10 @@ Estou sempre aberto a novos desafios — seja como freelancer, consultor ou memb
 <br></br>
 </div>
 
-<div align="center" style="display: inline_block">
+<!-- retirar para versao mais segura <div align="center" style="display: inline_block">
   <p align="center">Aproveite e me mande uma mensagem se precisar</br></p>
-  <p align="center"> <a href="https://wa.me/+5528999496882" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
-</div></br>
+ <p align="center"> <a href="https://wa.me/+552000000000" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
+</div></br> -->
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api?username=facrf&show_icons=true&theme=transparent&hide_title=true&count_private=true&include_all_commits=true"/>
