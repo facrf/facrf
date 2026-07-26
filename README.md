@@ -7,6 +7,8 @@ Além da técnica, prezo pelo compromisso, pela entrega com qualidade e pelo res
 Estou sempre aberto a novos desafios — seja como freelancer, consultor ou membro de equipes de alta performance.
 
 💡 Foco atual: Back-end com Java/Kotlin, APIs REST, SQL/PostgreSQL, arquitetura limpa.
+💡 Reciprocidade sempre! Se vc me segue eu te sigo!
+
 <br></br>
 <br></br>
 
