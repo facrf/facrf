@@ -1,0 +1,32 @@
+# Define o comportamento padrão para normalização de finais de linha
+* text=auto
+
+# Text files: sempre normalizar para LF no repositório e usar o nativo do SO no checkout
+*.java text
+*.kt text
+*.kts text
+*.xml text
+*.properties text
+*.md text
+*.txt text
+*.yml text
+*.yaml text
+*.json text
+*.sql text
+
+# Windows scripts: sempre com CRLF no checkout
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Shell scripts: sempre com LF
+*.sh text eol=lf
+
+# Binários: não modificar os finais de linha (sem conversão)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.jar binary
+*.class binary
+*.pdf binary
