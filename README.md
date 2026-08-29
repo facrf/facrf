@@ -99,9 +99,7 @@ Je suis toujours ouvert à de nouveaux défis — que ce soit en tant que freela
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facrf&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facrf&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+<div align="center"> 
 </div>
 
 <br>
