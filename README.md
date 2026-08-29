@@ -11,7 +11,6 @@ Estou sempre aberto a novos desafios — seja como freelancer, consultor ou memb
 
 💡 **Foco atual:** Back-end com Java/Kotlin, APIs REST, SQL/PostgreSQL, arquitetura limpa.
 
-💡 **Reciprocidade sempre!** Se vc me segue eu te sigo!
 
 </details>
 
