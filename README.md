@@ -1,110 +1,95 @@
+# Fabiano César
+
+Desenvolvedor back-end Java/Kotlin, focado em APIs robustas, integração de sistemas e arquitetura limpa.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-fabianocesar.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fabianocesar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-facrf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facrf/)
+[![E-mail](https://img.shields.io/badge/E--mail-contato%40fabianocesar.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@fabianocesar.com)
+
+> 📍 Espírito Santo, ES · 🌎 Aberto a vagas remotas e trabalhos freelance
+
 <details open>
 <summary><b>🇧🇷 Português</b></summary>
 
-## Bem-vindo ao meu perfil profissional
+## Sobre mim
 
-Sou desenvolvedor com sólida experiência em Java e Kotlin, apaixonado por criar soluções limpas, escaláveis e funcionais. Tenho histórico em desenvolvimento de APIs, integração de sistemas e melhoria de performance em ambientes críticos.
+Sou desenvolvedor com experiência em Java e Kotlin, dedicado a construir soluções limpas, escaláveis e funcionais. Atuo no desenvolvimento de APIs, integração de sistemas e melhoria de desempenho em ambientes críticos.
 
-Além da técnica, prezo pelo compromisso, pela entrega com qualidade e pelo respeito ao cliente e à equipe. Já atuei em projetos de diferentes portes, sempre buscando aplicar boas práticas, como SOLID, Clean Architecture e testes automatizados.
+Valorizo comunicação clara, compromisso com a entrega e qualidade técnica. No dia a dia, aplico princípios de SOLID, Clean Architecture e testes automatizados para criar software sustentável.
 
-Estou sempre aberto a novos desafios — seja como freelancer, consultor ou membro de equipes de alta performance.
-
-💡 **Foco atual:** Back-end com Java/Kotlin, APIs REST, SQL/PostgreSQL, arquitetura limpa.
-
+**Foco atual:** back-end com Java/Kotlin, APIs REST, SQL/PostgreSQL e arquitetura limpa.
 
 </details>
 
 <details>
 <summary><b>🇺🇸 English</b></summary>
 
-## Welcome to my professional profile
+## About me
 
-I am a developer with solid experience in Java and Kotlin, passionate about creating clean, scalable, and functional solutions. I have a proven track record in API development, system integration, and performance optimization in critical environments.
+I am a Java and Kotlin developer focused on building clean, scalable, and reliable solutions. My work includes API development, systems integration, and performance improvements in critical environments.
 
-Beyond technical skills, I value commitment, quality delivery, and respect for clients and team members. I have worked on projects of various scales, always striving to apply best practices such as SOLID, Clean Architecture, and automated testing.
+I value clear communication, dependable delivery, and technical quality. I apply SOLID principles, Clean Architecture, and automated testing to create maintainable software.
 
-I am always open to new challenges — whether as a freelancer, consultant, or member of high-performance teams.
-
-💡 **Current focus:** Back-end with Java/Kotlin, REST APIs, SQL/PostgreSQL, clean architecture.
-
-💡 **Reciprocity always!** If you follow me, I'll follow you back!
+**Current focus:** Java/Kotlin back-end, REST APIs, SQL/PostgreSQL, and clean architecture.
 
 </details>
 
 <details>
 <summary><b>🇪🇸 Español</b></summary>
 
-## Bienvenido a mi perfil profesional
+## Sobre mí
 
-Soy un desarrollador con sólida experiencia en Java y Kotlin, apasionado por crear soluciones limpias, escalables y funcionales. Tengo trayectoria en el desarrollo de APIs, integración de sistemas y optimización de rendimiento en entornos críticos.
+Soy desarrollador de Java y Kotlin, enfocado en crear soluciones limpias, escalables y confiables. Trabajo con desarrollo de APIs, integración de sistemas y optimización del rendimiento en entornos críticos.
 
-Más allá de lo técnico, valoro el compromiso, la entrega de calidad y el respeto hacia los clientes y el equipo. He trabajado en proyectos de diferentes escalas, aplicando siempre buenas prácticas como SOLID, Clean Architecture y pruebas automatizadas.
+Valoro la comunicación clara, el compromiso con las entregas y la calidad técnica. Aplico principios SOLID, Clean Architecture y pruebas automatizadas para crear software sostenible.
 
-Siempre estoy abierto a nuevos desafíos, ya sea como freelancer, consultor o miembro de equipos de alto rendimiento.
-
-💡 **Enfoque actual:** Back-end con Java/Kotlin, APIs REST, SQL/PostgreSQL, arquitectura limpia.
-
-💡 **¡Reciprocidad siempre!** ¡Si me sigues, te sigo!
+**Enfoque actual:** back-end con Java/Kotlin, APIs REST, SQL/PostgreSQL y arquitectura limpia.
 
 </details>
 
 <details>
 <summary><b>🇩🇪 Deutsch</b></summary>
 
-## Willkommen auf meinem beruflichen Profil
+## Über mich
 
-Ich bin ein Entwickler mit fundierter Erfahrung in Java und Kotlin und entwickle mit Leidenschaft saubere, skalierbare und funktionale Lösungen. Ich habe Erfahrung in der API-Entwicklung, Systemintegration und Performance-Optimierung in kritischen Umgebungen.
+Ich bin Java- und Kotlin-Entwickler und konzentriere mich auf saubere, skalierbare und zuverlässige Lösungen. Zu meiner Arbeit gehören API-Entwicklung, Systemintegration und Performance-Optimierung in kritischen Umgebungen.
 
-Neben den technischen Fähigkeiten lege ich großen Wert auf Engagement, qualitativ hochwertige Ergebnisse sowie Respekt gegenüber Kunden und dem Team. Ich habe an Projekten unterschiedlicher Größe gearbeitet und stets Best Practices wie SOLID, Clean Architecture und automatisierte Tests angewendet.
+Ich lege Wert auf klare Kommunikation, verlässliche Lieferung und technische Qualität. Mit SOLID-Prinzipien, Clean Architecture und automatisierten Tests entwickle ich wartbare Software.
 
-Ich bin immer offen für neue Herausforderungen — sei es als Freelancer, Berater oder Mitglied von Hochleistungsteams.
-
-💡 **Aktueller Fokus:** Back-End mit Java/Kotlin, REST-APIs, SQL/PostgreSQL, Clean Architecture.
-
-💡 **Gegenseitigkeit gilt immer!** Wenn du mir folgst, folge ich dir zurück!
+**Aktueller Fokus:** Java-/Kotlin-Back-End, REST-APIs, SQL/PostgreSQL und Clean Architecture.
 
 </details>
 
 <details>
 <summary><b>🇫🇷 Français</b></summary>
 
-## Bienvenue sur mon profil professionnel
+## À propos de moi
 
-Je suis un développeur avec une solide expérience en Java et Kotlin, passionné par la création de solutions propres, évolutives et fonctionnelles. J'ai une expérience confirmée dans le développement d'APIs, l'intégration de systèmes et l'optimisation des performances dans des environnements critiques.
+Je suis développeur Java et Kotlin, spécialisé dans la création de solutions propres, évolutives et fiables. Je travaille sur le développement d'API, l'intégration de systèmes et l'optimisation des performances dans des environnements critiques.
 
-Au-delà de la technique, j'accorde une grande importance à l'engagement, à la livraison de qualité et au respect des clients et de l'équipe. J'ai travaillé sur des projets de différentes envergures, en appliquant toujours les bonnes pratiques telles que SOLID, Clean Architecture et les tests automatisés.
+J'accorde de l'importance à une communication claire, à la fiabilité des livraisons et à la qualité technique. J'applique les principes SOLID, la Clean Architecture et les tests automatisés pour produire des logiciels durables.
 
-Je suis toujours ouvert à de nouveaux défis — que ce soit en tant que freelance, consultant ou membre d'équipes de haute performance.
-
-💡 **Focus actuel :** Back-end avec Java/Kotlin, APIs REST, SQL/PostgreSQL, Clean Architecture.
-
-💡 **Réciprocité toujours !** Si vous me suivez, je vous suis en retour !
+**Focus actuel :** back-end Java/Kotlin, API REST, SQL/PostgreSQL et Clean Architecture.
 
 </details>
 
-<br>
+## Tecnologias
 
-## 🛠️ Skills & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+## Projetos e contato
 
-<br>
+Para conhecer projetos, experiência e formas de contato, acesse meu [portfólio](https://fabianocesar.com), acompanhe meu [LinkedIn](https://www.linkedin.com/in/facrf/) ou envie um [e-mail](mailto:contato@fabianocesar.com).
 
-## 📊 GitHub Stats
+## GitHub
 
-<div align="center"> 
-</div>
-
-<br>
-
-<div align="center">
-  <p>🌐 <b>Acesse meu portfólio:</b></p>
-  <a href="https://facrf.github.io/">https://facrf.github.io/</a>
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=facrf&show_icons=true&hide_title=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Fabiano César">
+</p>
