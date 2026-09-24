@@ -19,7 +19,7 @@ Transformo necessidades operacionais em sistemas que podem evoluir: do entendime
 
 | Período | Experiência |
 | --- | --- |
-| 1997–atual | Projetos para terceiros em seguros de saúde, sistemas universitários, integrações corporativas e produtos comerciais. |
+| 1997–2023 | Projetos para terceiros em seguros de saúde, sistemas universitários, integrações corporativas e produtos comerciais. |
 | 2004 | Sistema de gestão para colônias de pescadores, com Delphi, Firebird e UML. |
 | Desde 2014 | Desenvolvimento de aplicações Android para empresas. |
 | 2017 | Aplicativo para sindicatos e colônias: associados, anuidades, documentos e alertas. |
