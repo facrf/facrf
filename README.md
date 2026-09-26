@@ -37,3 +37,14 @@ Transformo necessidades operacionais em sistemas que podem evoluir: do entendime
 - [VAMOS-LANG](https://github.com/facrf/VAMOSLANG) — linguagem baseada em Go com sintaxe em português.
 
 Para conhecer mais sobre minha trajetória e projetos, visite o [portfólio](https://fabianocesar.com).
+
+
+
+## Atividade no GitHub
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=facrf&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=facrf&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
+
+
+
+
+
